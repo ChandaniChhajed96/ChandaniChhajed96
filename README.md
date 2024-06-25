@@ -1,4 +1,4 @@
-- ## Hey 👋, I'm [Chandani Chhajed!](https://https://www.linkedin.com/in/chandani-vijaychhajed/)
+- ## Hey 👋, I'm [Chandani Chhajed!](https://www.linkedin.com/in/chandani-vijaychhajed/)
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandani-vijaychhajed/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chandani_chhajed_surana/)
