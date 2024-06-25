@@ -9,25 +9,25 @@
 ### Glad to see you here! 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
-Frontend skilled developer👨🏻‍💻 from India having experience in developing range of web applications and specialization in creating the user interface and user experience of websites. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web 🕸️ Development.
+Software Engineer👨🏻‍💻
+I bring over 3 years of experience in delivering high-quality software solutions. My expertise spans front-end development with AngularJS and React, as well as back-end proficiency in C#, .Net Core, and database management with MySQL and Oracle.
+I am passionate about leveraging cutting-edge technologies to solve complex problems and drive business success.I thrive in dynamic, challenging environments where continuous learning and professional growth are prioritised. My goal is to apply my technical knowledge and creative problem-solving skills to contribute meaningfully to an organization's objectives while fostering a culture of innovation and excellence.
 
 If you have opportunity where I can contribute and help your organization to grow. Let's connect 🚀
 
-Joined Github 3 years ago.
-
 ### Talking about Personal Stuff :
 
-- 🛠 &nbsp; At the moment working with ReactJS, Typescript, MERN Stack.
-- 👀 &nbsp; Currently learning NextJS and React Native.
+- 🛠 &nbsp; At the moment working with AngularJS, Typescript, .Net, C#.
+- 👀 &nbsp; Currently learning NextJS and ReactJS.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/ChandaniChhajed96) are genuine.
-- 📫 &nbsp; How to reach me: [Twitter](https://x.com/Chandani1807) or : chandani1807@gmail.com
+- 📫 &nbsp; How to reach me: chandani1807@gmail.com
 - 🚀 &nbsp; My [Portfolio Website](https://www.linkedin.com/in/chandani-vijaychhajed/)
 
 - ### My Absolute Favorites :
 
 - 💻 &nbsp; I love to build user interfaces with cool animations.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: There is a 88% probability that I'll beat you in a badminton and table tennis match :p
+- ⚡ &nbsp; Fun fact: There is a 88% probability that I'll beat you in a Badminton and Cricket match :p
 
   **Tech stack:**  <br />
 
