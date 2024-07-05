@@ -10,7 +10,8 @@
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
 Software Engineer👨🏻‍💻
-I bring over 3 years of experience in delivering high-quality software solutions. My expertise spans front-end development with AngularJS and React, as well as back-end proficiency in C#, .Net Core, and database management with MySQL and Oracle.
+I bring over 3 years of experience in delivering high-quality software solutions. <br> My expertise spans front-end development with AngularJS and React, as well as back-end proficiency in C#, .Net Core, and database management with MySQL and Oracle.
+
 I am passionate about leveraging cutting-edge technologies to solve complex problems and drive business success.I thrive in dynamic, challenging environments where continuous learning and professional growth are prioritised. My goal is to apply my technical knowledge and creative problem-solving skills to contribute meaningfully to an organization's objectives while fostering a culture of innovation and excellence.
 
 If you have opportunity where I can contribute and help your organization to grow. Let's connect 🚀
@@ -18,7 +19,7 @@ If you have opportunity where I can contribute and help your organization to gro
 ### Talking about Personal Stuff :
 
 - 🛠 &nbsp; At the moment working with AngularJS, Typescript, .Net, C#.
-- 👀 &nbsp; Currently learning NextJS and ReactJS.
+- 👀 &nbsp; Currently learning ReactJS and NodeJs.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/ChandaniChhajed96) are genuine.
 - 📫 &nbsp; How to reach me: chandani1807@gmail.com
 - 🚀 &nbsp; My [Portfolio Website](https://www.linkedin.com/in/chandani-vijaychhajed/)
@@ -50,6 +51,10 @@ If you have opportunity where I can contribute and help your organization to gro
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![REST API](https://img.shields.io/badge/rest%20api-%23000000.svg?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%237A57D1.svg?style=for-the-badge&logo=.net&logoColor=white)
+
   
   
 <div align="center">
