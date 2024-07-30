@@ -18,7 +18,7 @@ If you have opportunity where I can contribute and help your organization to gro
 
 ### Talking about Personal Stuff :
 
-- 🛠 &nbsp; At the moment working with AngularJS, ReactJS, Typescript, .Net, C#.
+- 🛠 &nbsp; At the moment working with AngularJS, ReactJS, Typescript, .Net, C#, MySQl DB.
 - 👀 &nbsp; Continuously upskilling.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/ChandaniChhajed96) are genuine.
 - 📫 &nbsp; How to reach me: chandani1807@gmail.com
