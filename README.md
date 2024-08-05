@@ -26,7 +26,7 @@ If you have opportunity where I can contribute and help your organization to gro
 
 - 💻 &nbsp; I love to build user interfaces with cool animations.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: There is a 88% probability that I'll beat you in a Badminton and Cricket match :p
+- ⚡ &nbsp; Fun fact: There is a 80% probability that I'll beat you in a Badminton and Cricket match :p
 
 ### Tech stack : <br />
 
