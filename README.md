@@ -1,4 +1,4 @@
-- ## Hey 👋, I'm [Chandani Chhajed!](https://www.linkedin.com/in/chandani-vijaychhajed/)
+- ## Hey 👋, I'm [Chandani Chhajed!](https://www.linkedin.com/in/chandani-vijaychhajed/) 
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandani-vijaychhajed/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-a7208c?style=for-the-badge&logo=Portfolio&logoColor=white)](https://my-portfolio-six-sigma-23.vercel.app)
